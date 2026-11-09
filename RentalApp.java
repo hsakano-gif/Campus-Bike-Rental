@@ -2,6 +2,7 @@
 public class RentalApp {
     public static void main(String[] args) {
         System.out.println("Welcome to the Campus Bike Rental System!");
+        //hi
         
         // TODO 1: Create two RentalStation objects.
 
